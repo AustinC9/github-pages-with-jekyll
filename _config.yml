@@ -1,3 +1,4 @@
+theme: minima
 title: Austin's First Blog
 author: AustinC9
 email: austin.carson4@gmail.com
@@ -12,4 +13,4 @@ github_username: AustinC9
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 
-theme: minima 
+
